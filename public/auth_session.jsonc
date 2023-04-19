@@ -1,0 +1,44 @@
+// https://chat.openai.com/api/auth/session
+[
+  {
+    "user": {
+      "id": "user-pFPXacO12tSMKUgEZ54WDI8w",
+      "name": "Leonardo Solis Badaró",
+      "email": "leonardosolisbadaro@outlook.com",
+      "image": "https://s.gravatar.com/avatar/227f9b65e2faccfcdd6bc59d87a4c68b?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fls.png",
+      "picture": "https://s.gravatar.com/avatar/227f9b65e2faccfcdd6bc59d87a4c68b?s=480&r=pg&d=https%3A%2F%2Fcdn.auth0.com%2Favatars%2Fls.png",
+      "mfa": false,
+      "groups": [],
+      "intercom_hash": "42a71d9c848861978885f90d54a66a82b859ac804bf46b018173459306e2230d"
+    },
+    "expires": "2023-05-19T02:04:04.316Z",
+    "accessToken": "eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6Ik1UaEVOVUpHTkVNMVFURTRNMEZCTWpkQ05UZzVNRFUxUlRVd1FVSkRNRU13UmtGRVFrRXpSZyJ9.eyJodHRwczovL2FwaS5vcGVuYWkuY29tL3Byb2ZpbGUiOnsiZW1haWwiOiJsZW9uYXJkb3NvbGlzYmFkYXJvQG91dGxvb2suY29tIiwiZW1haWxfdmVyaWZpZWQiOnRydWV9LCJodHRwczovL2FwaS5vcGVuYWkuY29tL2F1dGgiOnsidXNlcl9pZCI6InVzZXItcEZQWGFjTzEydFNNS1VnRVo1NFdESTh3In0sImlzcyI6Imh0dHBzOi8vYXV0aDAub3BlbmFpLmNvbS8iLCJzdWIiOiJ3aW5kb3dzbGl2ZXwwMTM2ZWM5NjQ3ZWY5MmMzIiwiYXVkIjpbImh0dHBzOi8vYXBpLm9wZW5haS5jb20vdjEiLCJodHRwczovL29wZW5haS5vcGVuYWkuYXV0aDBhcHAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTY4MTczMTczMCwiZXhwIjoxNjgyOTQxMzMwLCJhenAiOiJUZEpJY2JlMTZXb1RIdE45NW55eXdoNUU0eU9vNkl0RyIsInNjb3BlIjoib3BlbmlkIHByb2ZpbGUgZW1haWwgbW9kZWwucmVhZCBtb2RlbC5yZXF1ZXN0IG9yZ2FuaXphdGlvbi5yZWFkIG9mZmxpbmVfYWNjZXNzIn0.Zqx7-dHJlVHvWIoteTuWxuTMUdxpXAdSmFnw-zwaPCFB05truzXcvFClfK2cXokZPNjhHnj-F4bVQVI_j1hXHBJCO7QRQvsvuQskp91zjN_8cLQTqQQLdeOtBGw5uijuhMhiAFkTd1M42SyAXvZm84kYEP3aMguIQw1O1FqIWY8_1q7JyKKtHdVSsGdATSCW_oRDzvm3ReTY7GdnYVqwa_QNJLPMpDiuv8cqXRtiwoBYyFsifhQl5IQnuLb-mr4_sE7zx36phcoPrhswytmWAyy8-6f4QgPzeC6C3WgQRsNR16Jft1J_dpxVfVTNaWV5EOSDKeH-HCqgEDssUGbSbA"
+  },
+
+  // accessToken = json (base64):
+  {
+    "alg": "RS256",
+    "typ": "JWT",
+    "kid": "MThENUJGNEM1QTE4M0FBMjdCNTg5MDU1RTUwQUJDMEMwRkFEQkEzRg"
+  },
+  {
+    "https://api.openai.com/profile": {
+      "email": "leonardosolisbadaro@outlook.com",
+      "email_verified": true
+    },
+    "https://api.openai.com/auth": {
+      "user_id": "user-pFPXacO12tSMKUgEZ54WDI8w"
+    },
+    "iss": "https://auth0.openai.com/",
+    "sub": "windowslive|0136ec9647ef92c3",
+    "aud": [
+      "https://api.openai.com/v1",
+      "https://openai.openai.auth0app.com/userinfo"
+    ],
+    "iat": 1681731730,
+    "exp": 1682941330,
+    "azp": "TdJIcbe16WoTHtN95nyywh5E4yOo6ItG",
+    "scope": "openid profile email model.read model.request organization.read offline_access"
+  }
+  // 랝镞刢ד鬮Lŝƕ5)埌ਰ凎mr႕ⶱz$d㣄y㗆ՁR#֕ǄέPBɩ眣7ǋA:7^:ІÛ⎨L栅᷵3품羚8၏ݣ 脰ԭE腘㚻'"괷UJ]4⚄Cι煤جggaZ੃I,㩎+ﱊ熘ࠖ2ȟ剹!	뢁;ϝꦗ(>謃+fX⳧肃㸮❨FÑע_璝畟U3ZY^D9 ʸqªⅆm&
+]
